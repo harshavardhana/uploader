@@ -25,7 +25,7 @@ Now that we have everything we need to create a worker process, let’s create o
 
 ## Queuing jobs
 ```
-~ python3 uploader.py
+~ python3 enqueue.py
 None
 0c330f1a75e8dbe162215bb1cb497e9c-8
 ```
